@@ -31,7 +31,6 @@ h1{
     font-weight: 600;
 }
 
-/* section mid start css */
 
 .mid-section{
     height: fit-content;
@@ -54,19 +53,11 @@ h1{
 }
 
 
-/* section mid end css */
-
-/* section recipies start */
 .myreciepi-section{
     text-align: center;
     height: 200px;
 }
 
-
-/* section recipies end */
-
-
-/* recipies-section-image start */
 
 .recipies-section-image{
     height: fit-content;
@@ -86,9 +77,6 @@ h1{
    margin-left: 60px;
 }
 
-/* recipies-section-image end */
-
- /* social trafic css start */
  .social-trafic-div{
     width: 33%;
   
@@ -114,9 +102,7 @@ h1{
     margin-top: 20px;
     border-radius: 10px;
 }
-  /* social trafic css end */
-
-  /* footer section css start */
+  
   .footer-section{
     background-color: black;
     color: white;
@@ -139,4 +125,6 @@ h1{
  .text-heighlight{
      color: orang;
  }
-  /* footer section css end */
+ .text-heighlight{
+     color: orange;
+ }
