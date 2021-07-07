@@ -1,0 +1,142 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+.head-section{
+    height: fit-content;
+    margin: 20px;
+}
+.display-flex{
+    display: flex;
+}
+.half-width{
+    width: 45%;
+    margin-left: 50px;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(salmon, orange);
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+}
+
+/* section mid start css */
+
+.mid-section{
+    height: fit-content;
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.mid-dib{
+    width: 50%;
+}
+.mid-dib img{
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.button-div{
+    margin-top: 5%;
+}
+.mid-dib h1 p{
+    margin-top: 150px;
+}
+
+
+/* section mid end css */
+
+/* section recipies start */
+.myreciepi-section{
+    text-align: center;
+    height: 200px;
+}
+
+
+/* section recipies end */
+
+
+/* recipies-section-image start */
+
+.recipies-section-image{
+    height: fit-content;
+    margin: 0 40px;
+}
+.recipies-pic{
+    width: 33.33%;
+    margin: 20px;
+    text-align: justify;
+    background-color: wheat;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px gray;
+    height: 400px;
+}
+.recipies-pic img{
+    width: 70%;
+   margin-left: 60px;
+}
+
+/* recipies-section-image end */
+
+ /* social trafic css start */
+ .social-trafic-div{
+    width: 33%;
+  
+}
+.social-trafic-div h1{
+    font-size: 40px;
+    margin-top: -7px;
+}
+.social-trafic-div p{
+    margin-top: -25px;
+}
+.social-trafic-section{
+    text-align: center;
+    margin: 60px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(223, 216, 216);
+    background-color: white;
+    height: fit-content;
+}
+.social-trafic-div img{
+    width: 10%;
+    height: 20%;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+  /* social trafic css end */
+
+  /* footer section css start */
+  .footer-section{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 250px;
+  }
+ .subscrive h3{
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 18px;
+    text-decoration: none;
+    border-radius: 10px;
+    width: fit-content;
+    margin-left: 560px;
+ }
+ .subscrive input{
+     width: 300px;
+     height: 20px;
+     border-radius: 5px;
+ }
+ .text-heighlight{
+     color: orang;
+ }
+  /* footer section css end */
